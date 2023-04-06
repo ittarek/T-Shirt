@@ -1,0 +1,21 @@
+.single-t-shirt img {
+  border-radius: 20px;
+  width: 250px;
+  padding: 10px;
+  height: 250px;
+}
+.single-t-shirt {
+  border: 1px dashed lightsalmon;
+  border-radius: 15px;
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.253);
+}
+.buy-btn {
+  /* border-color: darkmagenta; */
+  margin-bottom: 5px;
+  background-color: aquamarine;
+  
+}
+.buy-btn :hover {
+  background-color: deeppink;
+  color: red;
+}
